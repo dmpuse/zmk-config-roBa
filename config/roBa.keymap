@@ -67,10 +67,10 @@
 
         default_layer {
             bindings = <
-&mt LEFT_SHIFT Q    &kp W         &kp E         &kp R                                 &kp T                                                           &kp Y                 &kp U  &lt 5 I    &kp O    &kp P
-&kp A               &kp S         &kp D         &lt_to_layer_0 5 F                    &kp G        &kp LS(LG(S))             &lt_to_layer_0 6 COLON   &kp H                 &kp J  &kp K      &kp L    &kp MINUS
-&lt_to_layer_0 5 Z  &kp X         &kp C         &kp V                                 &kp B        &mkp MB1                  &kp SEMICOLON            &kp N                 &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp LEFT_CONTROL    &kp LEFT_WIN  &kp LEFT_ALT  &lt_to_layer_0 1 LANG_ZENKAKUHANKAKU  &lt 2 SPACE  &lt_to_layer_0 4 TAB      &mt BACKSPACE BACKSPACE  &mt LEFT_SHIFT ENTER                             &kp RIGHT_SHIFT
+&mt LEFT_SHIFT Q    &kp W         &kp E               &kp R                                 &kp T                                                           &kp Y                 &kp U  &lt 5 I    &kp O    &kp P
+&kp A               &kp S         &lt_to_layer_0 3 D  &lt_to_layer_0 5 F                    &kp G        &kp LS(LG(S))             &lt_to_layer_0 6 COLON   &kp H                 &kp J  &kp K      &kp L    &kp MINUS
+&lt_to_layer_0 5 Z  &kp X         &kp C               &kp V                                 &kp B        &mkp MB1                  &kp SEMICOLON            &kp N                 &kp M  &kp COMMA  &kp DOT  &kp SLASH
+&kp LEFT_CONTROL    &kp LEFT_WIN  &kp LEFT_ALT        &lt_to_layer_0 1 LANG_ZENKAKUHANKAKU  &lt 2 SPACE  &lt_to_layer_0 4 TAB      &mt BACKSPACE BACKSPACE  &mt LEFT_SHIFT ENTER                             &kp RIGHT_SHIFT
             >;
 
             sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
