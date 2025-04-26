@@ -88,7 +88,7 @@
         Yajirushi_ctrl {
             bindings = <
 &none      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LG(LC(V))  &kp EQUAL                                      &kp DOLLAR  &kp AMPERSAND  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp NON_US_BACKSLASH
-&none      &kp KP_NUMBER_4   &kp KP_NUMBER_5    &kp LC(LS(V))  &kp RS(SEMICOLON)  &none       &kp UNDERSCORE  &none       &mkp MB1       &kp AT_SIGN       &kp UP_ARROW       &kp COLON
+&none      &kp KP_NUMBER_4   &kp KP_NUMBER_5    &kp LC(LS(V))  &kp RS(SEMICOLON)  &trans      &kp UNDERSCORE  &none       &mkp MB1       &kp AT_SIGN       &kp UP_ARROW       &kp COLON
 &kp SLASH  &kp KP_NUMBER_1   &kp KP_NUMBER_2    &kp LC(V)      &kp LA(C)          &none       &trans          &kp LC(N0)  &kp LA(RIGHT)  &kp LEFT          &kp DOWN           &kp RIGHT
 &trans     &trans            &trans             &trans         &trans             &trans      &kp DELETE      &kp ESCAPE                                                      &none
             >;
