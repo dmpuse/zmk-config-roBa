@@ -70,7 +70,7 @@
 &mt LEFT_SHIFT Q    &kp W     &kp E               &kp R                                         &kp T                                                           &kp Y                 &kp U     &lt 5 I    &kp O    &kp P
 &kp A               &kp S     &lt_to_layer_0 3 D  &lt_to_layer_0 5 F                            &kp G        &kp LS(LG(S))             &lt_to_layer_0 6 H       &kp J                 &mkp MB1  &kp K      &kp L    &kp MINUS
 &lt_to_layer_0 5 Z  &kp X     &kp C               &kp V                                         &kp B        &kp LANGUAGE_4            &kp LANGUAGE_9           &kp N                 &kp M     &kp COMMA  &kp DOT  &kp SLASH
-&kp LEFT_CONTROL    &kp LWIN  &kp LEFT_ALT        &lt_to_layer_0 1 LA(LS(LANG_ZENKAKUHANKAKU))  &lt 2 SPACE  &lt_to_layer_0 3 TAB      &mt BACKSPACE BACKSPACE  &mt LEFT_SHIFT ENTER                                &kp RIGHT_SHIFT
+&kp A               &kp LWIN  &kp LEFT_ALT        &lt_to_layer_0 1 LA(LS(LANG_ZENKAKUHANKAKU))  &lt 2 SPACE  &lt_to_layer_0 3 TAB      &mt BACKSPACE BACKSPACE  &mt LEFT_SHIFT ENTER                                &kp RIGHT_SHIFT
             >;
 
             sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
