@@ -73,7 +73,7 @@
 &kp LCTRL           &kp LEFT_GUI  &kp LEFT_ALT        &lt_to_layer_0 1 GRAVE  &lt 2 SPACE  &lt_to_layer_0 3 TAB      &mt BACKSPACE BACKSPACE  &mt LEFT_SHIFT ENTER                                &kp RIGHT_SHIFT
             >;
 
-            sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
+            sensor-bindings = <&inc_dec_kp PAGE_UP PAGE_DOWN>;
         };
 
         Kigou {
